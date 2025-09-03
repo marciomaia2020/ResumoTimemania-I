@@ -64,3 +64,59 @@ Agora você tem SEIS versões completas:
 
 
 Todas com funcionalidades idênticas e temas únicos! 🚀⚽🎨
+
+
+Principais melhorias adicionadas para a Timemania:
+
+⚽ Animação Pulse Corrigida:
+Pulse com as cores da Timemania (#f9ffeb, #12923d, #fff600)
+Animação suave de 3 segundos
+🎯 Gerador de Palpites Específico para Timemania:
+3 Estratégias adaptadas para 7 números (1-80) + time do coração
+Eliminação global (80 números em pool único)
+Estratégia 2 com eliminação progressiva (até 10 sequências)
+Estratégia 3 com eliminação múltipla dos últimos N concursos
+Download em múltiplos formatos (TXT, HTML, XLSX)
+Visualização global dos 80 números com status
+Time do coração aleatório escolhido automaticamente
+
+📊 Análise Visual Avançada:
+Análise por posição (1º-7º)
+Tabelas visuais dos números que saíram por posição
+Números que não saíram por posição
+Controle de jogos a analisar (padrão: 50)
+
+🔧 Funcionalidades Técnicas:
+Carregamento automático de todos os concursos
+Barra de progresso com cancelamento
+Filtros exatos por posição (número específico)
+Estatísticas detalhadas dos times do coração
+Toggle da tabela de resultados
+🎨 Cores e Visual:
+Cores oficiais da Timemania (verde #12923d + amarelo #fff600)
+Gradientes específicos verde-amarelo
+Emojis de futebol ⚽ para combinar com o tema
+Modal explicativo completo com cores da marca
+Destaque especial para o time do coração
+
+🎯 Especificidades da Timemania:
+7 números independentes (1-80)
+1 time do coração (34 times disponíveis)
+Eliminação global (todos os 80 números em um pool)
+Estratégia 2: Progressiva com 10 sequências máximas
+Estratégia 3: Eliminação múltipla dos últimos N concursos
+Visualização em grid 10x8 dos 80 números
+
+🚀 Funcionalidades Únicas:
+Status global mostra eliminados/disponíveis/palpites para todos os 80 números
+Histórico visual com números + time do coração
+Download especializado com formato de 7 números + time
+Modal explicativo detalhado para cada estratégia da Timemania
+Grid visual mostra status de todos os números de 1-80
+Time do coração automático - escolha aleatória entre 34 times oficiais
+Lista completa de times pré-definida com times brasileiros
+
+⚽ Times do Coração Incluídos:
+34 times brasileiros oficiais como ABC/RN, Atlético/MG, Bahia/BA, Botafogo/RJ, Corinthians/SP, Flamengo/RJ, Grêmio/RS, Palmeiras/SP, Santos/SP, São Paulo/SP, Vasco/RJ e muitos outros.
+
+Agora a Timemania tem todas as funcionalidades avançadas, perfeitamente adaptadas para seus 7 números + time do coração! ⚽🎯✨
