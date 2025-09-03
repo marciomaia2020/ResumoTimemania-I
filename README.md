@@ -1,5 +1,5 @@
 # ResumoTimemania-I
-
+.
 TIMEMANIA CRIADA COM SUCESSO! ⚽🟡🟢
 
 Principais adaptações feitas:
